@@ -1,0 +1,19 @@
+.single-country{
+    border: 1px solid aliceblue;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 20px;
+    max-width: 100%;
+    width: 350px;
+    height: auto;
+    
+}
+.single-country img{
+    width: 350px;
+    height: 200px;
+}
+.single-country h2, h3{
+    color: brown;
+}
+
+
